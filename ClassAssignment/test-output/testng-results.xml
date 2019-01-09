@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19788" started-at="2019-01-09T08:54:42Z" finished-at="2019-01-09T08:55:01Z">
+  <suite name="Default suite" duration-ms="27294" started-at="2019-01-09T17:11:29Z" finished-at="2019-01-09T17:11:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19788" started-at="2019-01-09T08:54:42Z" finished-at="2019-01-09T08:55:01Z">
-      <class name="makeMyTripAutomate.SelectDropDownOpt">
-        <test-method status="PASS" signature="selectDropDownVal()[pri:0, instance:makeMyTripAutomate.SelectDropDownOpt@1d8d30f7]" name="selectDropDownVal" duration-ms="19748" started-at="2019-01-09T08:54:42Z" finished-at="2019-01-09T08:55:01Z">
+    <test name="Default test" duration-ms="27294" started-at="2019-01-09T17:11:29Z" finished-at="2019-01-09T17:11:56Z">
+      <class name="classPractice.ClickLogin">
+        <test-method status="PASS" signature="login()[pri:0, instance:classPractice.ClickLogin@1d8d30f7]" name="login" duration-ms="27226" started-at="2019-01-09T17:11:29Z" finished-at="2019-01-09T17:11:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- selectDropDownVal -->
-      </class> <!-- makeMyTripAutomate.SelectDropDownOpt -->
+        </test-method> <!-- login -->
+      </class> <!-- classPractice.ClickLogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
